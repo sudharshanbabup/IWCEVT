@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Data and results
+data/
+results/
+*.npz
+*.parquet
+*.csv
+matlab/
